@@ -1,0 +1,12 @@
+{
+  "name": "nodejstut",
+  "version": "1.0.0",
+  "description": "first node.jstut",
+  "main": "app.js",
+  "scripts": {
+   "dev": "node --inspect app.js",
+    "start": "node app.js"
+  },
+  "author": "sarah rio",
+  "license": "ISC"
+}

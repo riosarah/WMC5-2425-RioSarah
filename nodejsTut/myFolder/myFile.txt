@@ -1,0 +1,1 @@
+This should also appear in the newly created file. If it doesn´t a error message should be displayed.
